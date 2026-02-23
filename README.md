@@ -1,11 +1,11 @@
-# 📊 Amazon Sales Analysis using Python
+# Amazon Sales Analysis using Python
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing Amazon e-commerce sales data using Python to uncover key business insights such as sales trends, top-performing product categories, customer payment behavior, and geographic revenue distribution. The analysis involves data cleaning, preprocessing, exploratory data analysis (EDA), and data visualization to support data-driven decision-making.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Python**
 - **Pandas** – Data cleaning & manipulation  
 - **Matplotlib** – Data visualization  
@@ -13,7 +13,7 @@ This project focuses on analyzing Amazon e-commerce sales data using Python to u
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 The dataset contains Amazon order-level sales data with attributes including:
 - Order date
 - Product category & brand
@@ -25,7 +25,7 @@ The dataset contains Amazon order-level sales data with attributes including:
 
 ---
 
-## 🔍 Data Cleaning & Preprocessing
+## Data Cleaning & Preprocessing
 Key preprocessing steps performed:
 - Converted `OrderDate` to datetime format with error handling
 - Ensured numeric columns were correctly typed
@@ -58,7 +58,7 @@ Key preprocessing steps performed:
 
 ---
 
-## 📊 Visualizations Included
+## Visualizations Included
 - Line Chart: Monthly Sales Trend  
 - Bar Chart: Top 10 Product Categories (Top 3 Highlighted)  
 - Pie Chart: Payment Method Distribution (Value & Percentage)  
@@ -66,7 +66,7 @@ Key preprocessing steps performed:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 - A small number of product categories contribute a significant share of total revenue
 - Sales show clear monthly trends, indicating seasonality
 - Certain payment methods dominate customer transactions
@@ -74,7 +74,7 @@ Key preprocessing steps performed:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ├── Amazon (1).csv # Raw dataset
 ├── Amazon_Cleaned.csv # Cleaned dataset
 ├── amazon_sales_analysis.py # Python analysis script
@@ -83,14 +83,14 @@ Key preprocessing steps performed:
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - Add interactive dashboards using Streamlit or Power BI
 - Perform customer segmentation analysis
 - Implement forecasting for future sales trends
 
 ---
 
-## 👤 Author
+## Author
 **Devi Smita**  
 Data Analyst | Python | SQL | Power BI  
 
