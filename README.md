@@ -37,7 +37,7 @@ Key preprocessing steps performed:
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 ### 1️⃣ Monthly Sales Trend
 - Analyzed total monthly revenue to identify seasonal sales patterns
