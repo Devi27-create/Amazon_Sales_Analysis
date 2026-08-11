@@ -75,11 +75,12 @@ Key preprocessing steps performed:
 ---
 
 ## Project Structure
+```text
 ├── Amazon (1).csv # Raw dataset
 ├── Amazon_Cleaned.csv # Cleaned dataset
 ├── amazon_sales_analysis.py # Python analysis script
 ├── README.md # Project documentation
-
+```
 
 ---
 
